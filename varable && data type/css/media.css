@@ -1,0 +1,17 @@
+@media screen and (max-width: 375px) {
+}
+
+@media (min-width: 376px) and (max-width: 425px) {
+}
+
+@media (min-width: 426px) and (max-width: 768px) {
+  .blabla {
+    color: white;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .blabla {
+    color: yellow;
+  }
+}
